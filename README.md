@@ -1,6 +1,5 @@
 # Sharleen Njeri Kabiru — Portfolio
 
-# Sharleen Njeri Kabiru 👋
 
 **Business Systems | Product | Fintech | Customer Experience**
 

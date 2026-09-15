@@ -1,13 +1,14 @@
 # Sharleen Njeri Kabiru — Portfolio
 
-## Publish for free with GitHub Pages
+# Sharleen Njeri Kabiru 👋
 
-1. Create/sign in to GitHub.
-2. Create a new **public** repository named `YOUR-GITHUB-USERNAME.github.io`.
-3. Upload `index.html` from this folder.
-4. Open the repository's **Settings → Pages**.
-5. Under Build and deployment, choose **Deploy from a branch**.
-6. Select the `main` branch and `/ (root)`, then Save.
-7. After GitHub publishes it, visit `https://YOUR-GITHUB-USERNAME.github.io`.
+**Business Systems | Product | Fintech | Customer Experience**
 
-The supplied portfolio already contains the HTML, CSS and JavaScript needed for the site.
+I'm a Computer Science graduate and fintech professional based in Nairobi, Kenya, with experience working across product, business systems, customer experience, system implementation, and QA.
+
+I enjoy turning business and user needs into practical technology solutions.
+
+🔗 **[View My Portfolio]()**
+
+📧 [sharleennjerikabiru@gmail.com](mailto:sharleennjerikabiru@gmail.com)
+
